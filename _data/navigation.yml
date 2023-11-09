@@ -1,16 +1,13 @@
 # main links links
 main:
-  - title: "Home"
-    url: /home/
-
-  - title: "Research"
-    url: /publications/    
+  - title: "Publications"
+    url: /publications/  
 
   - title: "Teaching"
     url: /teaching/    
     
   - title: "SLG Seminar"
-    url: /posts/
+    url: /portfolio/
         
   #- title: "Blog Posts"
   #  url: /year-archive/
