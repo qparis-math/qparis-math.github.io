@@ -9,7 +9,6 @@ redirect_from:
 ---
 
 
-I am Associate Professor at the [Computer Science Faculty](https://cs.hse.ru/en/) of [HSE University](https://www.hse.ru/en/) in Moscow.
-
+Since 2020, I have been Associate Professor at the [Computer Science Faculty](https://cs.hse.ru/en/) of [HSE University](https://www.hse.ru/en/) in Moscow. 
 
 My current research looks at ways Geometry informs the performance of Statistical Learning or Optimization algorithms.
