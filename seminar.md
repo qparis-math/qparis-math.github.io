@@ -1,6 +1,8 @@
-Seminar
-=
-
+---
+permalink: /
+title: Seminar
+author_profile: true
+---
 ### About
 ...
 
