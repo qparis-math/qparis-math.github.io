@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Quentin Paris"
-  avatar           : "Alexandrov.JPG"
+  avatar           : #"Alexandrov.JPG"
   bio              : "Bio"
   location         : "Moscow, Russia"
   employer         : "HSE University"
