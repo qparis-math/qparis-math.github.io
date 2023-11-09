@@ -11,4 +11,4 @@ redirect_from:
 
 Since 2020, I have been Associate Professor at the [Computer Science Faculty](https://cs.hse.ru/en/) of [HSE University](https://www.hse.ru/en/) in Moscow. 
 
-My current research looks at ways Geometry informs the performance of Statistical Learning or Optimization algorithms.
+I work at the intersection of Statistics, Machine Learning and Geometry. My current research looks at ways Geometry informs the performance of Statistical Learning algorithms.
