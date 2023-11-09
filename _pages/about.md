@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am Associate Professor at the [Computer Science Faculty](https://cs.hse.ru/en/) of [HSE University](https://www.hse.ru/en/) in Moscow. 
+### About me
+I am Associate Professor at the [Computer Science Faculty](https://cs.hse.ru/en/) of [HSE University](https://www.hse.ru/en/) in Moscow.
 
-My current research aims at discovering ways Geometry impacts the performance of Statistical Learning or Optimization algorithms.
+
+My current research looks at ways Geometry informs the performance of Statistical Learning or Optimization algorithms.
