@@ -5,10 +5,10 @@ main:
     url: /research/  
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /myteaching/    
     
   - title: "SLG Seminar"
-    url: /portfolio/
+    url: /seminar/
         
   #- title: "Blog Posts"
   #  url: /year-archive/
