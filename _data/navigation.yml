@@ -4,13 +4,13 @@ main:
     url: /home/
 
   - title: "Research"
-    url: /research/    
+    url: /publications/    
 
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Seminar"
-    url: /seminar/
+  - title: "SLG Seminar"
+    url: /posts/
         
   #- title: "Blog Posts"
   #  url: /year-archive/
