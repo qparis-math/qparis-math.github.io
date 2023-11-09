@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-### About me
+
 I am Associate Professor at the [Computer Science Faculty](https://cs.hse.ru/en/) of [HSE University](https://www.hse.ru/en/) in Moscow.
 
 
