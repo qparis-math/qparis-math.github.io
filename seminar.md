@@ -2,8 +2,7 @@
 title: Seminar
 ---
 
-### About
-...
+About ...
 
 ### Organisers
 ...
