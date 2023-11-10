@@ -9,8 +9,8 @@ I work at the intersection of Statistics, Machine Learning and Geometry. Recentl
 - [Google Scholar](https://scholar.google.com/citations?user=J1BwqGcAAAAJ&hl=ru)
 
 ### Publications
-- [Online learning with exponential weights in metric spaces](https://arxiv.org/abs/2103.14389). Quentin Paris (Preprint)
-- [Jensen's inequality in geodesic spaces with lower bounded curvature](https://arxiv.org/abs/2011.08597). Quentin Paris (Preprint)
+- [Online learning with exponential weights in metric spaces](https://arxiv.org/abs/2103.14389). Daria Demidova and Quentin Paris (Preprint)
+- [Jensen's inequality in geodesic spaces with lower bounded curvature](https://arxiv.org/abs/2011.08597). Daria Demidova and Quentin Paris (Preprint)
 - [Fast Convergence of Empirical Barycenters in Alexandrov Spaces and the Wasserstein Space](https://ems.press/journals/jems/articles/5898516). Thibaut Le Gouic, Quentin Paris, Philippe Rigollet, Austin J. Stromme. Journal of the European Mathematical Society, Vol. 25(6), p.2229-2250 (2023)
 - [Empirical variance minimization with applications in variance reduction and optimal control](https://projecteuclid.org/journals/bernoulli/volume-28/issue-2/Empirical-variance-minimization-with-applications-in-variance-reduction-and-optimal/10.3150/21-BEJ1392.short). Denis Belomestny, Leonid Iosipoi, Quentin Paris, Nikita Zhivotovskiy. Bernoulli. Vol. 28(2), p.1382-1407 (2022)
 - [Convergence rates for empirical barycenters in metric
