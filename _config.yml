@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Quentin Paris"
 title_separator          : "-"
 name                     : &name "Quentin Paris"
-description              : &description "qparis@hse.ru"
+description              : #&description "qparis@hse.ru"
 url                      : https://qparis-math.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "qparis-math/qparis-math.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Quentin Paris"
   avatar           : "passpic.jpg"
-  bio              : "Associate Professor"
+  bio              : "qparis@hse.ru"
   location         : "Moscow, Russia"
   employer         : "HSE University"
   pubmed           : 
