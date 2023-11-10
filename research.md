@@ -2,7 +2,6 @@
 title: Research
 ---
 
-### About
 I work at the intersection of Statistics, Machine Learning and Geometry. Recently, I have studied the barycenter estimation problem. My current research looks at ways the notion of synthetic Ricci curvature lower bounds can inform the performance of randomized estimators. 
 
 ### Links 
