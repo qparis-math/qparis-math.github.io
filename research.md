@@ -2,7 +2,7 @@
 title: Research
 ---
 
-I work at the intersection of Statistics, Machine Learning and Geometry. Recently, I have studied the barycenter estimation problem. My current research looks at ways the notion of synthetic Ricci curvature lower bounds can inform the performance of randomized estimators. 
+I work at the intersection of Statistics, Machine Learning and Geometry. Recently, I have studied the barycenter estimation problem. My current research looks at ways geometrical considerations (such as synthetic Ricci curvature lower bounds for metric-measure spaces) can inform the performance of randomized (PAC Bayes) estimators. 
 
 ### Links 
 - [arxiv](https://arxiv.org/search/math?searchtype=author&query=Paris,+Q)
