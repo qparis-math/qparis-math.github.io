@@ -2,7 +2,7 @@
 title: Research
 ---
 
-I work at the intersection of Statistics, Machine Learning and Geometry. Recently, I have studied the barycenter estimation problem. My current research looks at ways geometrical considerations (such as synthetic notions of curvature bounds) can inform the performance of randomized (PAC Bayes) estimators. 
+I work at the intersection of Statistics, Machine Learning and Geometry. Recently, I have studied the barycenter estimation problem. My current research looks at ways geometrical considerations (such as synthetic notions of curvature bounds) can inform the performance of randomized (PAC Bayesian) estimators. 
 
 ### Links 
 - [arxiv](https://arxiv.org/search/math?searchtype=author&query=Paris,+Q)
