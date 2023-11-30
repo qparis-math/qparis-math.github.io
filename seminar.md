@@ -1,6 +1,5 @@
 ---
-title: Online seminar<br> 
-On the interactions between Statistics and Geometry 
+title: Online seminar on the interactions between Statistics and Geometry 
 ---
 
 ![A.D.Alexandrov following the gradient](/images/Alexandrov.png "A.D.Alexandrov following the gradient"){: .align-right width="220px"}
