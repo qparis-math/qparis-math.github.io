@@ -1,6 +1,8 @@
 ---
-title: Online seminar on the interactions between Geometry and Mathematical Statistics
+title: Online seminar 
 ---
+## On the interactions between Statistics and Geometry
+
 ![A.D.Alexandrov following the gradient](/images/Alexandrov.png "A.D.Alexandrov following the gradient"){: .align-right width="220px"}
 Starting from January 2024, this monthly online seminar invites researchers working in Geometry or Mathematical Statistics to present a paper, result or idea. The aim is to promote communication between the two fields. We encourage speakers to give synthetic and pedagogical talks of about one hour, aimed at a broad mathematical audience. Topics of interest include (but are not limited to): 
 - Statistics and Learning in metric spaces,
