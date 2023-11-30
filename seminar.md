@@ -14,56 +14,18 @@ The seminar is co-organised by  [Victor-Emmanuel Brunel](https://vebrunel.fr), [
 
 ## Next talk
 
-> ### January 12, 2014
-> **Speaker**: TBA<br>
-> **Title**: TBA<br>
-> **Abstract**: TBA<br>
-> **Time**: TBA<br>
-
+#### January 12, 2014
+- **Speaker**: TBA
+- **Title**: TBA
+- **Abstract**: TBA
+- **Time**: TBA
 
 ## Upcoming scheduled talks
-<!--
-> ### February 9, 2014
-> **Speaker**: TBA<br>
-> **Title**: TBA<br>
-> **Abstract**: TBA<br>
-> **Time**: TBA<br>
--->
 
-<!--
-> ### March 8, 2014
-> **Speaker**: TBA<br>
-> **Title**: TBA<br>
-> **Abstract**: TBA<br>
-> **Time**: TBA<br>
--->
+#### April 5, 2014
+- **Speaker**: [Sinho Chewi](https://chewisinho.github.io) (IAS, Princeton)
+- **Title**: TBA
+- **Abstract**: TBA
+- **Time**: 3pm CET, 9am EST, 10pm JST, 4pm MSK
 
-> ### April 5, 2014
-> **Speaker**: [Sinho Chewi](https://chewisinho.github.io) (IAS, Princeton)<br>
-> **Title**: TBA<br>
-> **Abstract**: TBA<br>
-> **Time**: 3pm CET, 9am EST, 10pm JST, 4pm MSK<br>
 
-<!--
-> ### May 3, 2014
-> **Speaker**: TBA<br>
-> **Title**: TBA<br>
-> **Abstract**: TBA<br>
-> **Time**: TBA<br>
--->
-
-<!--
-> ### May 31, 2014
-> **Speaker**: TBA<br>
-> **Title**: TBA<br>
-> **Abstract**: TBA<br>
-> **Time**: TBA<br>
--->
-
-<!--
-> ### June 28, 2014
-> **Speaker**: TBA<br>
-> **Title**: TBA<br>
-> **Abstract**: TBA<br>
-> **Time**: TBA<br>
--->
