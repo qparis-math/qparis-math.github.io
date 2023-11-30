@@ -16,7 +16,7 @@ The seminar is co-organised by  [Victor-Emmanuel Brunel](https://vebrunel.fr), [
 
 ## Next talk
 
-#### January 12, 2014
+### January 12, 2014
 - **Speaker**: TBA
 - **Title**: TBA
 - **Abstract**: TBA
@@ -24,7 +24,7 @@ The seminar is co-organised by  [Victor-Emmanuel Brunel](https://vebrunel.fr), [
 
 ## Upcoming scheduled talks
 
-#### April 5, 2014
+### April 5, 2014
 - **Speaker**: [Sinho Chewi](https://chewisinho.github.io) (IAS, Princeton)
 - **Title**: TBA
 - **Abstract**: TBA
