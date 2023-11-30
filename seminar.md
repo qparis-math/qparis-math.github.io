@@ -12,9 +12,87 @@ Starting from January 2024, this monthly online seminar invites researchers work
 
 The seminar is co-organised by  [Victor-Emmanuel Brunel](https://vebrunel.fr), [Austin Stomme](https://austinjstromme.github.io), [Alexey Kroshnin](https://www.hse.ru/en/org/persons/219293044) and [Quentin Paris](https://qparis-math.github.io).
 
+### Next talk
 
-### Upcoming talks
-...
 
-### Past talks
-...
+> ### January 12, 2014
+> 
+> **Speaker**: TBA
+> 
+> **Title**: TBA
+> 
+> **Abstract**: TBA
+> 
+> **Time**: TBA
+
+
+### Upcoming scheduled talks
+<!--
+> ### February 9, 2014
+> 
+> **Speaker**: TBA
+> 
+> **Title**: TBA
+> 
+> **Abstract**: TBA
+> 
+> **Time**: TBA
+-->
+
+<!--
+> ### March 8, 2014
+> 
+> **Speaker**: TBA
+> 
+> **Title**: TBA
+> 
+> **Abstract**: TBA
+> 
+> **Time**: TBA
+-->
+
+> ### April 5, 2014
+> 
+> **Speaker**: [Sinho Chewi](https://chewisinho.github.io) (IAS, Princeton)
+> 
+> **Title**: TBA
+> 
+> **Abstract**: TBA
+> 
+> **Time**: 3pm CET, 9am EST, 10pm JST, 4pm MSK
+
+<!--
+> ### May 3, 2014
+> 
+> **Speaker**: TBA
+> 
+> **Title**: TBA
+> 
+> **Abstract**: TBA
+> 
+> **Time**: TBA
+-->
+
+<!--
+> ### May 31, 2014
+> 
+> **Speaker**: TBA
+> 
+> **Title**: TBA
+> 
+> **Abstract**: TBA
+> 
+> **Time**: TBA
+-->
+
+<!--
+> ### June 28, 2014
+> 
+> **Speaker**: TBA
+> 
+> **Title**: TBA
+> 
+> **Abstract**: TBA
+> 
+> **Time**: TBA
+-->
