@@ -4,12 +4,12 @@ main:
   - title: "Research"
     url: /research/  
 
-  - title: "Seminar"
-    url: /seminar/
-
   - title: "Teaching"
     url: /myteaching/    
-       
+
+  - title: "Online seminar"
+    url: /seminar/
+    
   #- title: "Blog Posts"
   #  url: /year-archive/
     
