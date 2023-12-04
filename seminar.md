@@ -15,10 +15,10 @@ The seminar is co-organised by  [Victor-Emmanuel Brunel](https://vebrunel.fr), [
 
 ## Next talk
 ### January 12, 2014
-- **Speaker**: TBA
+- **Speaker**: [Eugene Stepanov](https://cvgmt.sns.it/person/26/) (Steklov Research Institute of Mathematics, RAS)
 - **Title**: TBA
 - **Abstract**: TBA
-- **Time**: TBA
+- **Time**: 11am CET, 5am EST, 7pm JST, 1pm MSK
 
 ## Upcoming scheduled talks
 ### April 5, 2014
