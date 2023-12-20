@@ -27,4 +27,11 @@ The seminar is co-organised by  [Victor-Emmanuel Brunel](https://vebrunel.fr), [
 - **Abstract**: TBA
 - **Time**: 3pm CET, 9am EST, 10pm JST, 4pm MSK
 
+### May 28, 2014
+- **Speaker**: [Lénaïc Chizat](https://lchizat.github.io/) (EPFL, Institute of Mathematics)
+- **Title**: TBA
+- **Abstract**: TBA
+- **Time**: 11am CET, 5am EST, 7pm JST, 1pm MSK
+
+
 
