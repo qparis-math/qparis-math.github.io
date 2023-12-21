@@ -26,6 +26,7 @@ The seminar is co-organised by  [Victor-Emmanuel Brunel](https://vebrunel.fr), [
 - **Title**: TBA
 - **Abstract**: TBA
 - **Time**: 11am CET, 5am EST, 7pm JST, 1pm MSK
+  
 ### April 5, 2024
 - **Speaker**: [Sinho Chewi](https://chewisinho.github.io) (IAS, Princeton)
 - **Title**: TBA
