@@ -14,10 +14,10 @@ Starting from January 2024, this monthly online seminar invites researchers work
 The seminar is co-organised by  [Victor-Emmanuel Brunel](https://vebrunel.fr), [Austin Stomme](https://austinjstromme.github.io), [Alexey Kroshnin](https://www.hse.ru/en/org/persons/219293044) and [Quentin Paris](https://qparis-math.github.io).
 
 ## Next talk
-> ### January 12, 2024
-> - **Speaker**: [Eugene Stepanov](https://cvgmt.sns.it/person/26/) (Steklov Research Institute of Mathematics, RAS)
-> - **Title**: TBA
-> - **Abstract**: TBA
+> ### January 19, 2024
+> - **Speaker**: [Eugene Stepanov](https://cvgmt.sns.it/person/26/) (PDMI RAS, Universita di Pisa, HSE University)
+> - **Title**: Eigenvalues and eigenvectors of squared distance matrices and geometry of metric measure spaces
+> - **Abstract**: We will discuss what the spectral data of matrices of squared distances  between points from very large subsets (covering densely the space in the limit) of a metric measure space say about the geometry of the latter. In particular, we will discuss how the metric measure space can be reconstructed from such data.
 > - **Time**: 11am CET, 5am EST, 7pm JST, 1pm MSK
 
 ## Upcoming scheduled talks
@@ -33,7 +33,11 @@ The seminar is co-organised by  [Victor-Emmanuel Brunel](https://vebrunel.fr), [
 - **Abstract**: TBA
 - **Time**: 3pm CET, 9am EST, 10pm JST, 4pm MSK
 
-
+### May 31, 2024
+- **Speaker**: [Giuseppe Savaré](https://dec.unibocconi.eu/people/giuseppe-savare) (Bocconi University)
+- **Title**: TBA
+- **Abstract**: TBA
+- **Time**: 3pm CET, 9am EST, 10pm JST, 4pm MSK
 
 
 
