@@ -19,6 +19,7 @@ The seminar is co-organised by  [Victor-Emmanuel Brunel](https://vebrunel.fr), [
 > - **Title**: Eigenvalues and eigenvectors of squared distance matrices and geometry of metric measure spaces
 > - **Abstract**: We will discuss what the spectral data of matrices of squared distances  between points from very large subsets (covering densely the space in the limit) of a metric measure space say about the geometry of the latter. In particular, we will discuss how the metric measure space can be reconstructed from such data.
 > - **Time**: 11am CET, 5am EST, 7pm JST, 1pm MSK
+> - **Zoom link**: [Click here](https://us06web.zoom.us/j/2789300692?pwd=ZVAzeXRIZUREcEdlYWVPR1F5ejZOQT09)
 
 ## Upcoming scheduled talks
 ### March 8, 2024
