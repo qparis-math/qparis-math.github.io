@@ -27,7 +27,7 @@ The seminar is co-organised by  [Victor-Emmanuel Brunel](https://vebrunel.fr), [
 - **Title**: TBA
 - **Abstract**: TBA
 - **Time**: 11am CET, 5am EST, 7pm JST, 1pm MSK
-- 
+ 
 ### March 8, 2024
 - **Speaker**: [Lénaïc Chizat](https://lchizat.github.io/) (EPFL, Institute of Mathematics)
 - **Title**: TBA
