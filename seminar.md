@@ -14,20 +14,14 @@ Starting from January 2024, this monthly online seminar invites researchers work
 The seminar is co-organised by  [Victor-Emmanuel Brunel](https://vebrunel.fr), [Austin Stomme](https://austinjstromme.github.io), [Alexey Kroshnin](https://www.hse.ru/en/org/persons/219293044) and [Quentin Paris](https://qparis-math.github.io).
 
 ## Next talk
-> ### January 19, 2024
-> - **Speaker**: [Eugene Stepanov](https://cvgmt.sns.it/person/26/) (PDMI RAS, Universita di Pisa, HSE University)
-> - **Title**: Eigenvalues and eigenvectors of squared distance matrices and geometry of metric measure spaces
-> - **Abstract**: We will discuss what the spectral data of matrices of squared distances  between points from very large subsets (covering densely the space in the limit) of a metric measure space say about the geometry of the latter. In particular, we will discuss how the metric measure space can be reconstructed from such data.
-> - **Time**: 11am CET, 5am EST, 7pm JST, 1pm MSK
-> - **Zoom link**: [Click here](https://us06web.zoom.us/j/2789300692?pwd=ZVAzeXRIZUREcEdlYWVPR1F5ejZOQT09)
+> ### February 9, 2024
+> - **Speaker**: [Santosh Vempala](https://faculty.cc.gatech.edu/~vempala/) (Georgia Tech)
+> - **Title**: TBA
+> - **Abstract**: TBA
+> - **Time**: TBA
+> - **Zoom**: TBA
 
 ## Upcoming scheduled talks
-### February 9, 2024
-- **Speaker**: [Santosh Vempala](https://faculty.cc.gatech.edu/~vempala/) (Georgia Tech)
-- **Title**: TBA
-- **Abstract**: TBA
-- **Time**: 11am CET, 5am EST, 7pm JST, 1pm MSK
- 
 ### March 8, 2024
 - **Speaker**: [Lénaïc Chizat](https://lchizat.github.io/) (EPFL, Institute of Mathematics)
 - **Title**: TBA
@@ -44,7 +38,13 @@ The seminar is co-organised by  [Victor-Emmanuel Brunel](https://vebrunel.fr), [
 - **Speaker**: [Giuseppe Savaré](https://dec.unibocconi.eu/people/giuseppe-savare) (Bocconi University)
 - **Title**: TBA
 - **Abstract**: TBA
-- **Time**: 3pm CET, 9am EST, 10pm JST, 4pm MSK
+- **Time**: 11am CET, 5am EST, 7pm JST, 1pm MSK
 
+## Past talks
+### January 19, 2024
+- **Speaker**: [Eugene Stepanov](https://cvgmt.sns.it/person/26/) (PDMI RAS, Universita di Pisa, HSE University)
+- **Title**: Eigenvalues and eigenvectors of squared distance matrices and geometry of metric measure spaces
+- **Abstract**: We will discuss what the spectral data of matrices of squared distances  between points from very large subsets (covering densely the space in the limit) of a metric measure space say about the geometry of the latter. In particular, we will discuss how the metric measure space can be reconstructed from such data.
+- **Recording**: [Link](https://drive.google.com/file/d/1M8KsYc_VwY4e_3GMD4WHZRohS2_9x9KB/view?usp=share_link)
 
 
