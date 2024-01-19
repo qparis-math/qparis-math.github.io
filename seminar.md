@@ -22,6 +22,12 @@ The seminar is co-organised by  [Victor-Emmanuel Brunel](https://vebrunel.fr), [
 > - **Zoom link**: [Click here](https://us06web.zoom.us/j/2789300692?pwd=ZVAzeXRIZUREcEdlYWVPR1F5ejZOQT09)
 
 ## Upcoming scheduled talks
+### February 9, 2024
+- **Speaker**: [Santosh Vempala](https://faculty.cc.gatech.edu/~vempala/) (Georgia Tech)
+- **Title**: TBA
+- **Abstract**: TBA
+- **Time**: 11am CET, 5am EST, 7pm JST, 1pm MSK
+- 
 ### March 8, 2024
 - **Speaker**: [Lénaïc Chizat](https://lchizat.github.io/) (EPFL, Institute of Mathematics)
 - **Title**: TBA
