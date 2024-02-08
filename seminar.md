@@ -19,7 +19,7 @@ The seminar is co-organised by  [Victor-Emmanuel Brunel](https://vebrunel.fr), [
 > - **Title**: High-dimensional Sampling: Euclid to Riemann 
 > - **Abstract**: Sampling high-dimensional densities is a basic algorithmic problem that has led to mathematically interesting tools and techniques. Many sampling algorithms can be viewed as discretizations of suitable continuous stochastic processes, raising the questions: Which stochastic process to use? And how to discretize it? In this talk, we discuss the use of Riemannian metrics to guide sampling algorithms and how, perhaps surprisingly, they can lead to improvements even for Euclidean sampling.  We will focus on two methods -- Riemannian Langevin and Riemannian Hamiltonian Monte Carlo –- and highlight some open questions. 
 > - **Time**: 3pm CET, 9am EST, 10pm JST, 4pm MSK
-> - **Zoom**: TBA
+> - **Zoom**: [Link](https://us06web.zoom.us/j/2789300692?pwd=ZVAzeXRIZUREcEdlYWVPR1F5ejZOQT09)
 
 ## Upcoming scheduled talks
 ### March 8, 2024
@@ -30,6 +30,12 @@ The seminar is co-organised by  [Victor-Emmanuel Brunel](https://vebrunel.fr), [
   
 ### April 5, 2024
 - **Speaker**: [Sinho Chewi](https://chewisinho.github.io) (IAS, Princeton)
+- **Title**: TBA
+- **Abstract**: TBA
+- **Time**: 3pm CET, 9am EST, 10pm JST, 4pm MSK
+
+### May 3, 2024
+- **Speaker**: [Govind Menon](https://www.dam.brown.edu/people/menon/) (Brown University)
 - **Title**: TBA
 - **Abstract**: TBA
 - **Time**: 3pm CET, 9am EST, 10pm JST, 4pm MSK
