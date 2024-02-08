@@ -16,7 +16,7 @@ The seminar is co-organised by  [Victor-Emmanuel Brunel](https://vebrunel.fr), [
 ## Next talk
 > ### February 9, 2024
 > - **Speaker**: [Santosh Vempala](https://faculty.cc.gatech.edu/~vempala/) (Georgia Tech)
-> - **Title**: High-dimensional Sampling: from Euclid to Riemann 
+> - **Title**: High-dimensional Sampling: From Euclid to Riemann 
 > - **Abstract**: Sampling high-dimensional densities is a basic algorithmic problem that has led to mathematically interesting tools and techniques. Many sampling algorithms can be viewed as discretizations of suitable continuous stochastic processes, raising the questions: Which stochastic process to use? And how to discretize it? In this talk, we discuss the use of Riemannian metrics to guide sampling algorithms and how, perhaps surprisingly, they can lead to improvements even for Euclidean sampling.  We will focus on two methods -- Riemannian Langevin and Riemannian Hamiltonian Monte Carlo –- and highlight some open questions. 
 > - **Time**: 3pm CET, 9am EST, 10pm JST, 4pm MSK
 > - **Zoom**: [Link](https://us06web.zoom.us/j/2789300692?pwd=ZVAzeXRIZUREcEdlYWVPR1F5ejZOQT09)
