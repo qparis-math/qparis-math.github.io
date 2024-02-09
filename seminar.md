@@ -48,7 +48,7 @@ The seminar is co-organised by  [Victor-Emmanuel Brunel](https://vebrunel.fr), [
 - **Recording**: [Link](https://drive.google.com/file/d/1M8KsYc_VwY4e_3GMD4WHZRohS2_9x9KB/view?usp=share_link)
 
 ### February 9, 2024
-> - **Speaker**: [Santosh Vempala](https://faculty.cc.gatech.edu/~vempala/) (Georgia Tech)
-> - **Title**: High-dimensional Sampling: From Euclid to Riemann 
-> - **Abstract**: Sampling high-dimensional densities is a basic algorithmic problem that has led to mathematically interesting tools and techniques. Many sampling algorithms can be viewed as discretizations of suitable continuous stochastic processes, raising the questions: Which stochastic process to use? And how to discretize it? In this talk, we discuss the use of Riemannian metrics to guide sampling algorithms and how, perhaps surprisingly, they can lead to improvements even for Euclidean sampling.  We will focus on two methods -- Riemannian Langevin and Riemannian Hamiltonian Monte Carlo –- and highlight some open questions.
-> - **Recording**: [Link](https://drive.google.com/file/d/1L8x2IG4IQ1KEf5_fha15uFFXlK2X9CBa/view?usp=drive_link)
+- **Speaker**: [Santosh Vempala](https://faculty.cc.gatech.edu/~vempala/) (Georgia Tech)
+- **Title**: High-dimensional Sampling: From Euclid to Riemann 
+- **Abstract**: Sampling high-dimensional densities is a basic algorithmic problem that has led to mathematically interesting tools and techniques. Many sampling algorithms can be viewed as discretizations of suitable continuous stochastic processes, raising the questions: Which stochastic process to use? And how to discretize it? In this talk, we discuss the use of Riemannian metrics to guide sampling algorithms and how, perhaps surprisingly, they can lead to improvements even for Euclidean sampling.  We will focus on two methods -- Riemannian Langevin and Riemannian Hamiltonian Monte Carlo –- and highlight some open questions.
+- **Recording**: [Link](https://drive.google.com/file/d/1L8x2IG4IQ1KEf5_fha15uFFXlK2X9CBa/view?usp=drive_link)
