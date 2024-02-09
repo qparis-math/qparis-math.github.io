@@ -32,13 +32,13 @@ The seminar is co-organised by  [Victor-Emmanuel Brunel](https://vebrunel.fr), [
 - **Speaker**: [Sinho Chewi](https://chewisinho.github.io) (IAS, Princeton)
 - **Title**: TBA
 - **Abstract**: TBA
-- **Time**: 3pm CET, 9am EST, 10pm JST, 4pm MSK
+- **Time**: 3pm CET, 9am EST, 11pm JST, 5pm MSK
 
 ### May 3, 2024
 - **Speaker**: [Govind Menon](https://www.dam.brown.edu/people/menon/) (Brown University)
 - **Title**: TBA
 - **Abstract**: TBA
-- **Time**: 3pm CET, 9am EST, 10pm JST, 4pm MSK
+- **Time**: 3pm CET, 9am EST, 11pm JST, 5pm MSK
 
 ### May 31, 2024
 - **Speaker**: [Giuseppe Savaré](https://dec.unibocconi.eu/people/giuseppe-savare) (Bocconi University)
