@@ -41,14 +41,14 @@ The seminar is co-organised by  [Victor-Emmanuel Brunel](https://vebrunel.fr), [
 - **Time**: 11am CET, 5am EST, 7pm JST, 1pm MSK
 
 ## Past talks
-### January 19, 2024
-- **Speaker**: [Eugene Stepanov](https://cvgmt.sns.it/person/26/) (PDMI RAS, Universita di Pisa, HSE University)
-- **Title**: Eigenvalues and eigenvectors of squared distance matrices and geometry of metric measure spaces
-- **Abstract**: We will discuss what the spectral data of matrices of squared distances  between points from very large subsets (covering densely the space in the limit) of a metric measure space say about the geometry of the latter. In particular, we will discuss how the metric measure space can be reconstructed from such data.
-- **Recording**: [Link](https://drive.google.com/file/d/1M8KsYc_VwY4e_3GMD4WHZRohS2_9x9KB/view?usp=share_link)
-
 ### February 9, 2024
 - **Speaker**: [Santosh Vempala](https://faculty.cc.gatech.edu/~vempala/) (Georgia Tech)
 - **Title**: High-dimensional Sampling: From Euclid to Riemann 
 - **Abstract**: Sampling high-dimensional densities is a basic algorithmic problem that has led to mathematically interesting tools and techniques. Many sampling algorithms can be viewed as discretizations of suitable continuous stochastic processes, raising the questions: Which stochastic process to use? And how to discretize it? In this talk, we discuss the use of Riemannian metrics to guide sampling algorithms and how, perhaps surprisingly, they can lead to improvements even for Euclidean sampling.  We will focus on two methods -- Riemannian Langevin and Riemannian Hamiltonian Monte Carlo –- and highlight some open questions.
 - **Recording**: [Link](https://drive.google.com/file/d/1L8x2IG4IQ1KEf5_fha15uFFXlK2X9CBa/view?usp=drive_link)
+
+### January 19, 2024
+- **Speaker**: [Eugene Stepanov](https://cvgmt.sns.it/person/26/) (PDMI RAS, Universita di Pisa, HSE University)
+- **Title**: Eigenvalues and eigenvectors of squared distance matrices and geometry of metric measure spaces
+- **Abstract**: We will discuss what the spectral data of matrices of squared distances  between points from very large subsets (covering densely the space in the limit) of a metric measure space say about the geometry of the latter. In particular, we will discuss how the metric measure space can be reconstructed from such data.
+- **Recording**: [Link](https://drive.google.com/file/d/1M8KsYc_VwY4e_3GMD4WHZRohS2_9x9KB/view?usp=share_link)
