@@ -16,8 +16,8 @@ The seminar is co-organised by  [Victor-Emmanuel Brunel](https://vebrunel.fr), [
 ## Next talk
 > ### March 8, 2024
 > - **Speaker**: [Lénaïc Chizat](https://lchizat.github.io/) (EPFL, Institute of Mathematics)
-> - **Title**: TBA
-> - **Abstract**: TBA
+> - **Title**: Doubly Regularized Entropic Wasserstein Barycenters
+> - **Abstract**: Wasserstein barycenters are natural objects to summarize a family of probability distributions, but they suffer from the curse of dimensionality, both statistically and computationally. In this talk, I will propose a new look at the entropic regularization of Wasserstein barycenters. I will show that, via a *double entropic regularization* of the problem, one obtains a notion of barycenter with none of these drawbacks. In addition, and perhaps counter-intuitively, with well-chosen regularization strengths, this double regularization approximates the true Wasserstein barycenter better than with a single regularization. In this talk, the barycenter problem serves as a common thread to present recent results in the theory of entropic optimal transport from a statistical, approximation and computational viewpoint, which are relevant in more general contexts. References: [Ref 1](https://arxiv.org/abs/2303.11844), [Ref 2](https://arxiv.org/abs/2307.13370)
 > - **Time**: 11am CET, 5am EST, 7pm JST, 1pm MSK
 > - **Zoom**: [Link](https://us06web.zoom.us/j/2789300692?pwd=ZVAzeXRIZUREcEdlYWVPR1F5ejZOQT09)
 
@@ -45,10 +45,10 @@ The seminar is co-organised by  [Victor-Emmanuel Brunel](https://vebrunel.fr), [
 - **Speaker**: [Santosh Vempala](https://faculty.cc.gatech.edu/~vempala/) (Georgia Tech)
 - **Title**: High-dimensional Sampling: From Euclid to Riemann 
 - **Abstract**: Sampling high-dimensional densities is a basic algorithmic problem that has led to mathematically interesting tools and techniques. Many sampling algorithms can be viewed as discretizations of suitable continuous stochastic processes, raising the questions: Which stochastic process to use? And how to discretize it? In this talk, we discuss the use of Riemannian metrics to guide sampling algorithms and how, perhaps surprisingly, they can lead to improvements even for Euclidean sampling.  We will focus on two methods -- Riemannian Langevin and Riemannian Hamiltonian Monte Carlo –- and highlight some open questions.
-- **Recording**: [Link](https://drive.google.com/file/d/1L8x2IG4IQ1KEf5_fha15uFFXlK2X9CBa/view?usp=drive_link)
+- **Recording**: [Link](https://drive.google.com/file/d/1L8x2IG4IQ1KEf5_fha15uFFXlK2X9CBa/view?usp=sharing)
 
 ### January 19, 2024
 - **Speaker**: [Eugene Stepanov](https://cvgmt.sns.it/person/26/) (PDMI RAS, Universita di Pisa, HSE University)
 - **Title**: Eigenvalues and eigenvectors of squared distance matrices and geometry of metric measure spaces
 - **Abstract**: We will discuss what the spectral data of matrices of squared distances  between points from very large subsets (covering densely the space in the limit) of a metric measure space say about the geometry of the latter. In particular, we will discuss how the metric measure space can be reconstructed from such data.
-- **Recording**: [Link](https://drive.google.com/file/d/1M8KsYc_VwY4e_3GMD4WHZRohS2_9x9KB/view?usp=share_link)
+- **Recording**: [Link](https://drive.google.com/file/d/1M8KsYc_VwY4e_3GMD4WHZRohS2_9x9KB/view?usp=sharing)
