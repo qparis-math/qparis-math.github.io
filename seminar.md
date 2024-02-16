@@ -14,12 +14,12 @@ Starting from January 2024, this monthly online seminar invites researchers work
 The seminar is co-organised by  [Victor-Emmanuel Brunel](https://vebrunel.fr), [Austin Stomme](https://austinjstromme.github.io), [Alexey Kroshnin](https://www.hse.ru/en/org/persons/219293044) and [Quentin Paris](https://qparis-math.github.io).
 
 ## Next talk
-### March 8, 2024
-- **Speaker**: [Lénaïc Chizat](https://lchizat.github.io/) (EPFL, Institute of Mathematics)
-- **Title**: Doubly Regularized Entropic Wasserstein Barycenters
-- **Abstract**: Wasserstein barycenters are natural objects to summarize a family of probability distributions, but they suffer from the curse of dimensionality, both statistically and computationally. In this talk, I will propose a new look at the entropic regularization of Wasserstein barycenters. I will show that, via a *double entropic regularization* of the problem, one obtains a notion of barycenter with none of these drawbacks. In addition, and perhaps counter-intuitively, with well-chosen regularization strengths, this double regularization approximates the true Wasserstein barycenter better than with a single regularization. In this talk, the barycenter problem serves as a common thread to present recent results in the theory of entropic optimal transport from a statistical, approximation and computational viewpoint, which are relevant in more general contexts. References: [Ref 1](https://arxiv.org/abs/2303.11844), [Ref 2](https://arxiv.org/abs/2307.13370)
- - **Time**: 11am CET, 5am EST, 7pm JST, 1pm MSK
- - **Zoom**: [Link](https://us06web.zoom.us/j/2789300692?pwd=ZVAzeXRIZUREcEdlYWVPR1F5ejZOQT09)
+> ### March 8, 2024
+> - **Speaker**: [Lénaïc Chizat](https://lchizat.github.io/) (EPFL, Institute of Mathematics)
+> - **Title**: Doubly Regularized Entropic Wasserstein Barycenters
+> - **Abstract**: Wasserstein barycenters are natural objects to summarize a family of probability distributions, but they suffer from the curse of dimensionality, both statistically and computationally. In this talk, I will propose a new look at the entropic regularization of Wasserstein barycenters. I will show that, via a *double entropic regularization* of the problem, one obtains a notion of barycenter with none of these drawbacks. In addition, and perhaps counter-intuitively, with well-chosen regularization strengths, this double regularization approximates the true Wasserstein barycenter better than with a single regularization. In this talk, the barycenter problem serves as a common thread to present recent results in the theory of entropic optimal transport from a statistical, approximation and computational viewpoint, which are relevant in more general contexts. References: [Ref 1](https://arxiv.org/abs/2303.11844), [Ref 2](https://arxiv.org/abs/2307.13370)
+> - **Time**: 11am CET, 5am EST, 7pm JST, 1pm MSK
+> - **Zoom**: [Link](https://us06web.zoom.us/j/2789300692?pwd=ZVAzeXRIZUREcEdlYWVPR1F5ejZOQT09)
 
 ## Upcoming scheduled talks
 ### April 5, 2024
