@@ -18,7 +18,7 @@ The seminar is co-organised by  [Victor-Emmanuel Brunel](https://vebrunel.fr), [
 > - **Speaker**: [Sinho Chewi](https://chewisinho.github.io) (IAS, Princeton)
 > - **Title**: Variational inference via Wasserstein gradient flows
 > - **Abstract**: Variational inference (VI), which seeks to approximate the Bayesian posterior by a more tractable distribution within a variational family, has been widely advocated as a scalable alternative to MCMC. However, obtaining non-asymptotic convergence guarantees has been a longstanding challenge. In this talk, I will argue that viewing this problem as optimization over the Wasserstein space of probability measures equipped with the optimal transport metric leads to the design of principled algorithms which exhibit strong practical performance and are backed by rigorous theory. In particular, we address Gaussian VI, as well as (non-parametric) mean-field VI.
-> - **Time**: 3pm CET, 9am EST, 11pm JST, 5pm MSK
+> - **Time**: 3pm CEST, 9am EDT, 10pm JST, 4pm MSK
 > - **Zoom**: [Link](https://us06web.zoom.us/j/2789300692?pwd=ZVAzeXRIZUREcEdlYWVPR1F5ejZOQT09)
 
 ## Upcoming scheduled talks
