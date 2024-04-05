@@ -14,20 +14,14 @@ Starting from January 2024, this monthly online seminar invites researchers work
 The seminar is co-organised by  [Victor-Emmanuel Brunel](https://vebrunel.fr), [Austin Stomme](https://austinjstromme.github.io), [Alexey Kroshnin](https://www.hse.ru/en/org/persons/219293044) and [Quentin Paris](https://qparis-math.github.io).
 
 ## Next talk
-> ### April 5, 2024
-> - **Speaker**: [Sinho Chewi](https://chewisinho.github.io) (IAS, Princeton)
-> - **Title**: Variational inference via Wasserstein gradient flows
-> - **Abstract**: Variational inference (VI), which seeks to approximate the Bayesian posterior by a more tractable distribution within a variational family, has been widely advocated as a scalable alternative to MCMC. However, obtaining non-asymptotic convergence guarantees has been a longstanding challenge. In this talk, I will argue that viewing this problem as optimization over the Wasserstein space of probability measures equipped with the optimal transport metric leads to the design of principled algorithms which exhibit strong practical performance and are backed by rigorous theory. In particular, we address Gaussian VI, as well as (non-parametric) mean-field VI.
-> - **Time**: 3pm CEST, 9am EDT, 10pm JST, 4pm MSK
+> ### May 3, 2024
+> - **Speaker**: [Govind Menon](https://www.dam.brown.edu/people/menon/) (Brown University)
+> - **Title**: TBA
+> - **Abstract**: TBA
+> - **Time**: TBA
 > - **Zoom**: [Link](https://us06web.zoom.us/j/2789300692?pwd=ZVAzeXRIZUREcEdlYWVPR1F5ejZOQT09)
 
 ## Upcoming scheduled talks
-### May 3, 2024
-- **Speaker**: [Govind Menon](https://www.dam.brown.edu/people/menon/) (Brown University)
-- **Title**: TBA
-- **Abstract**: TBA
-- **Time**: 3pm CET, 9am EST, 11pm JST, 5pm MSK
-
 ### May 31, 2024
 - **Speaker**: [Giuseppe Savaré](https://dec.unibocconi.eu/people/giuseppe-savare) (Bocconi University)
 - **Title**: TBA
@@ -35,6 +29,12 @@ The seminar is co-organised by  [Victor-Emmanuel Brunel](https://vebrunel.fr), [
 - **Time**: 11am CET, 5am EST, 7pm JST, 1pm MSK
 
 ## Past talks
+### April 5, 2024
+- **Speaker**: [Sinho Chewi](https://chewisinho.github.io) (IAS, Princeton)
+- **Title**: Variational inference via Wasserstein gradient flows
+- **Abstract**: Variational inference (VI), which seeks to approximate the Bayesian posterior by a more tractable distribution within a variational family, has been widely advocated as a scalable alternative to MCMC. However, obtaining non-asymptotic convergence guarantees has been a longstanding challenge. In this talk, I will argue that viewing this problem as optimization over the Wasserstein space of probability measures equipped with the optimal transport metric leads to the design of principled algorithms which exhibit strong practical performance and are backed by rigorous theory. In particular, we address Gaussian VI, as well as (non-parametric) mean-field VI.
+- **Recording**: [Link](https://drive.google.com/file/d/1N8sSWSL8ecZS4z-gMwrEU4XEn3PBB_fc/view?usp=sharing)
+
 ### March 8, 2024
 - **Speaker**: [Lénaïc Chizat](https://lchizat.github.io/) (EPFL, Institute of Mathematics)
 - **Title**: Doubly Regularized Entropic Wasserstein Barycenters
