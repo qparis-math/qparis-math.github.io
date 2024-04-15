@@ -16,9 +16,11 @@ The seminar is co-organised by  [Victor-Emmanuel Brunel](https://vebrunel.fr), [
 ## Next talk
 > ### May 3, 2024
 > - **Speaker**: [Govind Menon](https://www.dam.brown.edu/people/menon/) (Brown University)
-> - **Title**: TBA
-> - **Abstract**: TBA
-> - **Time**: TBA
+> - **Title**: The Riemannian Langevin equation: models and sampling schemes
+> - **Abstract**: The rigorous foundations of Brownian motion on Riemannian manifolds was developed in the 1970s. However, our understanding of this problem, in particular the interplay between the underlying metric and the Brownian motion has been considerably enriched by recent applications. In several recent works, we have used this theory to design Riemannian Langevin equations, all of which correspond to stochastic gradient descent of entropy. We will describe two such examples in this talk:
+>    - (a) A low-regularity construction of Brownian motion  (with Dominik Inauen)
+>    - (b) Gibbs sampling with Riemannian Langevin Monte Carlo schemes (with Jianfeng Lu, Tianmin Yu, Xiangxiong Zhang and Shixin Zheng)
+> - **Time**: 3pm CEST, 9am EDT, 4pm MSK, 10pm JST 
 > - **Zoom**: [Link](https://us06web.zoom.us/j/2789300692?pwd=ZVAzeXRIZUREcEdlYWVPR1F5ejZOQT09)
 
 ## Upcoming scheduled talks
