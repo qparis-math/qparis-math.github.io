@@ -15,22 +15,25 @@ The seminar is co-organised by  [Victor-Emmanuel Brunel](https://vebrunel.fr), [
 
 ## Next talk
 > ### May 3, 2024
-> - **Speaker**: [Govind Menon](https://www.dam.brown.edu/people/menon/) (Brown University)
-> - **Title**: The Riemannian Langevin equation: models and sampling schemes
-> - **Abstract**: The rigorous foundations of Brownian motion on Riemannian manifolds was developed in the 1970s. However, our understanding of this problem, in particular the interplay between the underlying metric and the Brownian motion has been considerably enriched by recent applications. In several recent works, we have used this theory to design Riemannian Langevin equations, all of which correspond to stochastic gradient descent of entropy. We will describe two such examples in this talk:
->    - (a) A low-regularity construction of Brownian motion  (with Dominik Inauen)
->    - (b) Gibbs sampling with Riemannian Langevin Monte Carlo schemes (with Jianfeng Lu, Tianmin Yu, Xiangxiong Zhang and Shixin Zheng)
-> - **Time**: 3pm CEST, 9am EDT, 4pm MSK, 10pm JST 
+> - **Speaker**: [Giuseppe Savaré](https://dec.unibocconi.eu/people/giuseppe-savare) (Bocconi University)
+> - **Title**: The construction of Dirichlet forms and Sobolev spaces on the Wasserstein space
+> - **Abstract**: The talk will concern the construction of a class of Dirichlet forms and corresponding Sobolev spaces induced by a finite reference measure on the L^2-Kantorovich-Wasserstein space of probability measures on R^d (or a Riemannian manifold). Such forms can be characterised by at least two different approaches. The first is based on the closure of the canonical energy form on smooth cylinder functions that arise from Otto calculus. The second relies on the Cheeger energy, which is defined in terms of the underlying Wasserstein metric by integrating the squared asymptotic Lipschitz constant of Lipschitz functions. The equivalence of these two approaches is a consequence of general approximation results for Sobolev spaces in metric-measure spaces. (In collaboration with Massimo Fornasier and Giacomo Sodini)
+> - **Time**: 11am CET, 5am EST, 6pm JST, 12am MSK
 > - **Zoom**: [Link](https://us06web.zoom.us/j/2789300692?pwd=ZVAzeXRIZUREcEdlYWVPR1F5ejZOQT09)
 
 ## Upcoming scheduled talks
-### May 31, 2024
-- **Speaker**: [Giuseppe Savaré](https://dec.unibocconi.eu/people/giuseppe-savare) (Bocconi University)
-- **Title**: TBA
-- **Abstract**: TBA
-- **Time**: 11am CET, 5am EST, 7pm JST, 1pm MSK
+The seminar will restart in September 2024.
 
 ## Past talks
+
+### May 3, 2024
+- **Speaker**: [Govind Menon](https://www.dam.brown.edu/people/menon/) (Brown University)
+- **Title**: The Riemannian Langevin equation: models and sampling schemes
+- **Abstract**: The rigorous foundations of Brownian motion on Riemannian manifolds was developed in the 1970s. However, our understanding of this problem, in particular the interplay between the underlying metric and the Brownian motion has been considerably enriched by recent applications. In several recent works, we have used this theory to design Riemannian Langevin equations, all of which correspond to stochastic gradient descent of entropy. We will describe two such examples in this talk:
+  - (a) A low-regularity construction of Brownian motion  (with Dominik Inauen)
+  -  (b) Gibbs sampling with Riemannian Langevin Monte Carlo schemes (with Jianfeng Lu, Tianmin Yu, Xiangxiong Zhang and Shixin Zheng)
+- **Recording**: [Link](https://drive.google.com/file/d/18_E0jpFZbUuby-BOFrWqHvUi_3WHjfEt/view?usp=sharing)
+   
 ### April 5, 2024
 - **Speaker**: [Sinho Chewi](https://chewisinho.github.io) (IAS, Princeton)
 - **Title**: Variational inference via Wasserstein gradient flows
