@@ -14,17 +14,17 @@ Starting from January 2024, this monthly online seminar invites researchers work
 The seminar is co-organised by  [Victor-Emmanuel Brunel](https://vebrunel.fr), [Austin Stomme](https://austinjstromme.github.io), [Alexey Kroshnin](https://www.hse.ru/en/org/persons/219293044) and [Quentin Paris](https://qparis-math.github.io).
 
 ## Next talk
-> ### May 31, 2024
-> - **Speaker**: [Giuseppe Savaré](https://dec.unibocconi.eu/people/giuseppe-savare) (Bocconi University)
-> - **Title**: The construction of Dirichlet forms and Sobolev spaces on the Wasserstein space
-> - **Abstract**: The talk will concern the construction of a class of Dirichlet forms and corresponding Sobolev spaces induced by a finite reference measure on the L^2-Kantorovich-Wasserstein space of probability measures on R^d (or a Riemannian manifold). Such forms can be characterised by at least two different approaches. The first is based on the closure of the canonical energy form on smooth cylinder functions that arise from Otto calculus. The second relies on the Cheeger energy, which is defined in terms of the underlying Wasserstein metric by integrating the squared asymptotic Lipschitz constant of Lipschitz functions. The equivalence of these two approaches is a consequence of general approximation results for Sobolev spaces in metric-measure spaces. (In collaboration with Massimo Fornasier and Giacomo Sodini)
-> - **Time**: 11am CET, 5am EST, 6pm JST, 12am MSK
-> - **Zoom**: [Link](https://us06web.zoom.us/j/2789300692?pwd=ZVAzeXRIZUREcEdlYWVPR1F5ejZOQT09)
+TBA
 
 ## Upcoming scheduled talks
-The seminar will restart in September 2024.
+TBA
 
 ## Past talks
+### May 31, 2024
+- **Speaker**: [Giuseppe Savaré](https://dec.unibocconi.eu/people/giuseppe-savare) (Bocconi University)
+- **Title**: The construction of Dirichlet forms and Sobolev spaces on the Wasserstein space
+- **Abstract**: The talk will concern the construction of a class of Dirichlet forms and corresponding Sobolev spaces induced by a finite reference measure on the L^2-Kantorovich-Wasserstein space of probability measures on R^d (or a Riemannian manifold). Such forms can be characterised by at least two different approaches. The first is based on the closure of the canonical energy form on smooth cylinder functions that arise from Otto calculus. The second relies on the Cheeger energy, which is defined in terms of the underlying Wasserstein metric by integrating the squared asymptotic Lipschitz constant of Lipschitz functions. The equivalence of these two approaches is a consequence of general approximation results for Sobolev spaces in metric-measure spaces. (In collaboration with Massimo Fornasier and Giacomo Sodini)
+- **Recording**:[Link](https://drive.google.com/file/d/15kfUJ7Tyu2LaQEhbt_nbUkHx3zJ1WnOU/view?usp=sharing)
 
 ### May 3, 2024
 - **Speaker**: [Govind Menon](https://www.dam.brown.edu/people/menon/) (Brown University)
