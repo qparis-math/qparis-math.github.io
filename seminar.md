@@ -14,7 +14,11 @@ Starting from January 2024, this monthly online seminar invites researchers work
 The seminar is co-organised by  [Victor-Emmanuel Brunel](https://vebrunel.fr), [Austin Stomme](https://austinjstromme.github.io), [Alexey Kroshnin](https://www.hse.ru/en/org/persons/219293044) and [Quentin Paris](https://qparis-math.github.io).
 
 ## Next talk
-TBA
+### November 8, 2024
+> - **Speaker**: [Dario Trevisan](https://cvgmt.sns.it/person/1259/) (Universita degli Studi di Pisa)
+> - **Title**: TBA
+> - **Abstract**: TBA
+> - **Time**: 2pm (CET)
 
 ## Upcoming scheduled talks
 TBA
