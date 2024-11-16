@@ -27,7 +27,7 @@ TBA
 The proof relies upon recent advances in the stability theory of optimal transportation, combined with functional analytic techniques and some ideas from quantitative stochastic homogenization. The key tool we develop is a quantitative upper bound for the usual quadratic optimal transportation problem in terms of its boundary variant, where points can be freely transported along the boundary. The methods we use are applicable to more general random measures, including occupation measure of Brownian paths, and may open the door to further progress on challenging problems at the interface of analysis, probability, and discrete mathematics.
 Based on joint work with M. Huesmann and M. Goldman (arXiv:2409.08612)
 - **See Dario's blog post**: [Link](http://people.dm.unipi.it/trevisan/blog/posts/QParis-2024/) 
-- **Recording**: [Link]()
+- **Recording**: [Link](https://drive.google.com/file/d/1Boi7fEndqtKrKcqbnT8sgXWsmVEQVC-d/view?usp=sharing)
 
 ### May 31, 2024
 - **Speaker**: [Giuseppe Savaré](https://dec.unibocconi.eu/people/giuseppe-savare) (Bocconi University)
