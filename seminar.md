@@ -13,7 +13,7 @@ The seminar is co-organised by  [Victor-Emmanuel Brunel](https://vebrunel.fr), [
 >- **Title**: A lecture on the interface between information geometry, optimization and optimal transport
 >- **Abstract**: I will first introduce some basic concepts in information geometry, explained through the lens of the little-known framework of para-Kähler geometry. I will then present recent applications of this framework to first-order optimization methods à la mirror descent, geometric formulas for asymptotics of entropic transport problems, as well as apriori estimates for optimal transport maps. 
 >- **Time**: 2pm (CET)
->- **Zoom link**: TBA
+>- **Zoom link**: [Link](https://zoom.us/j/98000788013?pwd=kXBX57YkLHUTMNoSAUJNObpQHR6naK.1)
 
 ## Upcoming scheduled talks
 TBA
