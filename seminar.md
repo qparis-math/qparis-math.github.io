@@ -8,17 +8,18 @@ This monthly online seminar invites researchers working in Geometry or Mathemati
 The seminar is co-organised by  [Victor-Emmanuel Brunel](https://vebrunel.fr), [Austin Stomme](https://austinjstromme.github.io), [Alexey Kroshnin](https://www.hse.ru/en/org/persons/219293044) and [Quentin Paris](https://qparis-math.github.io).
 
 ## Next talk
->### December 13, 2024
->- **Speaker**: [Flavien Léger](https://flavienleger.github.io/) (INRIA Paris)
->- **Title**: A lecture on the interface between information geometry, optimization and optimal transport
->- **Abstract**: I will first introduce some basic concepts in information geometry, explained through the lens of the little-known framework of para-Kähler geometry. I will then present recent applications of this framework to first-order optimization methods à la mirror descent, geometric formulas for asymptotics of entropic transport problems, as well as apriori estimates for optimal transport maps. 
->- **Time**: 2pm (CET)
->- **Zoom link**: [Link](https://zoom.us/j/98000788013?pwd=kXBX57YkLHUTMNoSAUJNObpQHR6naK.1)
+>TBA
 
 ## Upcoming scheduled talks
 TBA
 
 ## Past talks
+### December 13, 2024
+- **Speaker**: [Flavien Léger](https://flavienleger.github.io/) (INRIA, Université Paris Dauphine)
+- **Title**: A lecture on the interface between information geometry, optimization and optimal transport
+- **Abstract**: I will first introduce some basic concepts in information geometry, explained through the lens of the little-known framework of para-Kähler geometry. I will then present recent applications of this framework to first-order optimization methods à la mirror descent, geometric formulas for asymptotics of entropic transport problems, as well as apriori estimates for optimal transport maps. 
+- **Recording**: [Link](https://drive.google.com/file/d/1hi4XJTSUsJWGECrc0sqQ_r9EOvurXoyk/view?usp=sharing)
+
 ### November 8, 2024
 - **Speaker**: [Dario Trevisan](https://cvgmt.sns.it/person/1259/) (Universita degli Studi di Pisa)
 - **Title**: Asymptotics for Random Quadratic Transportation Costs
