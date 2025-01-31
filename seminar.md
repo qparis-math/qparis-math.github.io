@@ -8,7 +8,12 @@ This monthly online seminar invites researchers working in Geometry or Mathemati
 The seminar is co-organised by  [Victor-Emmanuel Brunel](https://vebrunel.fr), [Austin Stomme](https://austinjstromme.github.io), [Alexey Kroshnin](https://www.hse.ru/en/org/persons/219293044) and [Quentin Paris](https://qparis-math.github.io).
 
 ## Next talk
->TBA
+>### February 28, 2025
+>- **Speaker**: [Cyril Letrouit](https://www.imo.universite-paris-saclay.fr/~cyril.letrouit/) (CNRS, Laboratoire de Mathématiques d'Orsay)
+>- **Title**: TBA
+>- **Abstract**: TBA
+>- **Time**: TBA
+>- **Zoom**: TBA 
 
 ## Upcoming scheduled talks
 TBA
