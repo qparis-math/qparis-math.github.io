@@ -10,9 +10,9 @@ The seminar is co-organised by  [Victor-Emmanuel Brunel](https://vebrunel.fr), [
 ## Next talk
 >### February 28, 2025
 >- **Speaker**: [Cyril Letrouit](https://www.imo.universite-paris-saclay.fr/~cyril.letrouit/) (CNRS, Laboratoire de Mathématiques d'Orsay)
->- **Title**: TBA
->- **Abstract**: TBA
->- **Time**: TBA
+>- **Title**: Quantitative stability of optimal transport maps
+>- **Abstract**: Optimal transport consists in sending a given source probability measure to a given target probability measure, in a way which is optimal with respect to some cost. On bounded subsets of R^d, if the cost is given by the squared Euclidean distance and the source measure is absolutely continuous, a unique optimal transport map exists. The question we will discuss is the following: how does this optimal transport map change if we perturb the target measure? For instance, if instead of the target measure we only have access to samples of it, how much does the optimal transport map change? This question, motivated by numerical and statistical aspects of optimal transport, has started to receive partial answers only recently, under quite restrictive assumptions on the source measure. We will review these answers and show how to handle much more general cases. This is a joint work with Quentin Mérigot.
+>- **Time**: 3pm (CET)
 >- **Zoom**: TBA 
 
 ## Upcoming scheduled talks
