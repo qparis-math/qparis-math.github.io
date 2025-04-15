@@ -8,17 +8,31 @@ This monthly online seminar invites researchers working in Geometry or Mathemati
 The seminar is co-organised by  [Victor-Emmanuel Brunel](https://vebrunel.fr), [Austin Stomme](https://austinjstromme.github.io), [Alexey Kroshnin](https://www.hse.ru/en/org/persons/219293044) and [Quentin Paris](https://qparis-math.github.io).
 
 ## Next talk
->### February 28, 2025
->- **Speaker**: [Cyril Letrouit](https://www.imo.universite-paris-saclay.fr/~cyril.letrouit/) (CNRS, Laboratoire de Mathématiques d'Orsay)
->- **Title**: Quantitative stability of optimal transport maps
->- **Abstract**: Optimal transport consists in sending a given source probability measure to a given target probability measure, in a way which is optimal with respect to some cost. On bounded subsets of R^d, if the cost is given by the squared Euclidean distance and the source measure is absolutely continuous, a unique optimal transport map exists. The question we will discuss is the following: how does this optimal transport map change if we perturb the target measure? For instance, if instead of the target measure we only have access to samples of it, how much does the optimal transport map change? This question, motivated by numerical and statistical aspects of optimal transport, has started to receive partial answers only recently, under quite restrictive assumptions on the source measure. We will review these answers and show how to handle much more general cases. This is a joint work with Quentin Mérigot.
->- **Time**: 3pm (CET)
+>### DATE:
+>- **Speaker**: TBA
+>- **Title**: TBA
+>- **Abstract**: TBA
+>- **Time**: TBA
 >- **Zoom**: [Link](https://us06web.zoom.us/j/2789300692?pwd=ZVAzeXRIZUREcEdlYWVPR1F5ejZOQT09) 
 
 ## Upcoming scheduled talks
 TBA
 
 ## Past talks
+### April 4, 2025
+- **Speaker**: [Nicolas Boumal](EPFL)
+- **Title**: Saddle point avoidance in optimization with deterministic algorithms: refined proof techniques
+- **Abstract**: It is an unfortunate fact that reasonable optimization algorithms may converge to saddle points (for our purpose: critical points which are not even local minimizers). That said, this is exceedingly rare. Typically, if the initialization is generic (e.g., if it is random), then we do not see such bad behavior. This was first formalized for gradient descent with constant step size by Lee et al. (2016). Since then, several extensions were proposed, but all of them are restricted to simple algorithms (essentially iterating a nice map). The proofs (which rely on the Center Stable Manifold Theorem) do not extend to seemingly simple variations such as gradient descent with a line-search method. I will present ongoing work with Andreea Musat where we refine existing proof techniques to extend them to a first line-search method. These results also apply for Riemannian optimization, with some friction.
+- **Slides**: [Link](https://drive.google.com/file/d/1YaEZQFG9Qv23hwuESMhs8HraC_AWcRBY/view?usp=sharing)
+- **Recording**: NA
+
+### February 28, 2025
+- **Speaker**: [Cyril Letrouit](https://www.imo.universite-paris-saclay.fr/~cyril.letrouit/) (CNRS, Laboratoire de Mathématiques d'Orsay)
+- **Title**: Quantitative stability of optimal transport maps
+- **Abstract**: Optimal transport consists in sending a given source probability measure to a given target probability measure, in a way which is optimal with respect to some cost. On bounded subsets of R^d, if the cost is given by the squared Euclidean distance and the source measure is absolutely continuous, a unique optimal transport map exists. The question we will discuss is the following: how does this optimal transport map change if we perturb the target measure? For instance, if instead of the target measure we only have access to samples of it, how much does the optimal transport map change? This question, motivated by numerical and statistical aspects of optimal transport, has started to receive partial answers only recently, under quite restrictive assumptions on the source measure. We will review these answers and show how to handle much more general cases. This is a joint work with Quentin Mérigot.
+- **Recording**: [Link](https://drive.google.com/file/d/10R8zCZaqubP2RrT3V_1wm0pwOmawnbvJ/view?usp=sharing)
+
+
 ### December 13, 2024
 - **Speaker**: [Flavien Léger](https://flavienleger.github.io/) (INRIA, Université Paris Dauphine)
 - **Title**: A lecture on the interface between information geometry, optimization and optimal transport
