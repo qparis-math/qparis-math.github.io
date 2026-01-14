@@ -8,19 +8,25 @@ This monthly online seminar invites researchers working in Geometry or Mathemati
 The seminar is co-organised by  [Victor-Emmanuel Brunel](https://vebrunel.fr), [Austin Stomme](https://austinjstromme.github.io), [Alexey Kroshnin](https://www.hse.ru/en/org/persons/219293044) and [Quentin Paris](https://qparis-math.github.io).
 
 ## Next talk
->### DATE:
->- **Speaker**: TBA
->- **Title**: TBA
->- **Abstract**: TBA
->- **Time**: TBA
->- **Zoom**: [Link](https://us06web.zoom.us/j/2789300692?pwd=ZVAzeXRIZUREcEdlYWVPR1F5ejZOQT09) 
+>### DATE: January 16, 2026
+>- **Speaker**: [Catherine Aaron](https://lmbp.uca.fr/~aaron/)
+>- **Title**: Local Convex Hull for Support Estimation (and Beyond): Old, New, and Some Perspectives
+>- **Abstract**: The Local Convex Hull was introduced in 2004 for home range estimation in Ecography. In this talk, we will present the original tool for estimating support and level sets. We will then demonstrate that the original tool is minimax suitable for support estimation in the "full dimensional" case and when the support is a boundaryless manifold. Regarding level sets, a slight modification of the original method enables consistent estimation in a fairly general setting. Local Convex Hull is closely related to the convexity defect function and can thus also be applied to reach estimation. We will also present perspectives on this tool. The introduction of local parameters, unfortunately, risks inducing a loss of robustness. We will also discuss computational aspects.
+>- **Time**: 3pm (CET)
+>- **Zoom**: [Link](https://zoom.us/j/96365475425?pwd=BZMVAaxGbSaYgClFxENbKtOByahaHe.1) (ID:963 6547 5425, PW:854931)
 
 ## Upcoming scheduled talks
 TBA
 
 ## Past talks
+### June 27, 2025
+- **Speaker**: [Gil Kur](https://sites.google.com/view/gilkur/)
+- **Title**: On the Role of Gaussian Covariates in Minimum Norm Interpolation
+- **Abstract**: In the literature on benign overfitting in linear models, also referred to as minimum norm interpolation, it is typically assumed that the covariates follow a Gaussian distribution. Existing proofs heavily rely on the Gaussian Minimax Theorem (GMT), making them inapplicable to other distributions in the linear setting. In our work, we are the first to establish matching rates for sub-Gaussian covariates in $\ell_p$-linear regression through a novel approach inspired by modern functional analysis. In this talk, we provide an overview of this proof and explore the role of Gaussian covariates in benign overfitting from a purely geometric perspective.
+- **Recording**: NA
+  
 ### April 4, 2025
-- **Speaker**: [Nicolas Boumal](EPFL)
+- **Speaker**: [Nicolas Boumal](https://www.nicolasboumal.net)
 - **Title**: Saddle point avoidance in optimization with deterministic algorithms: refined proof techniques
 - **Abstract**: It is an unfortunate fact that reasonable optimization algorithms may converge to saddle points (for our purpose: critical points which are not even local minimizers). That said, this is exceedingly rare. Typically, if the initialization is generic (e.g., if it is random), then we do not see such bad behavior. This was first formalized for gradient descent with constant step size by Lee et al. (2016). Since then, several extensions were proposed, but all of them are restricted to simple algorithms (essentially iterating a nice map). The proofs (which rely on the Center Stable Manifold Theorem) do not extend to seemingly simple variations such as gradient descent with a line-search method. I will present ongoing work with Andreea Musat where we refine existing proof techniques to extend them to a first line-search method. These results also apply for Riemannian optimization, with some friction.
 - **Slides**: [Link](https://drive.google.com/file/d/1YaEZQFG9Qv23hwuESMhs8HraC_AWcRBY/view?usp=sharing)
