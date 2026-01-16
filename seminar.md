@@ -13,7 +13,7 @@ The seminar is co-organised by  [Victor-Emmanuel Brunel](https://vebrunel.fr), [
 >- **Title**: Local Convex Hull for Support Estimation (and Beyond): Old, New, and Some Perspectives
 >- **Abstract**: The Local Convex Hull was introduced in 2004 for home range estimation in Ecography. In this talk, we will present the original tool for estimating support and level sets. We will then demonstrate that the original tool is minimax suitable for support estimation in the "full dimensional" case and when the support is a boundaryless manifold. Regarding level sets, a slight modification of the original method enables consistent estimation in a fairly general setting. Local Convex Hull is closely related to the convexity defect function and can thus also be applied to reach estimation. We will also present perspectives on this tool. The introduction of local parameters, unfortunately, risks inducing a loss of robustness. We will also discuss computational aspects.
 >- **Time**: 3pm (CET)
->- **Zoom**: [Link](https://zoom.us/j/95888935674?pwd=p1GCwLjslGsKYPAkUCmUm4TyKY39xj.1) (ID:963 6547 5425, PW:854931)
+>- **Zoom**: [Link](https://zoom.us/j/95888935674?pwd=p1GCwLjslGsKYPAkUCmUm4TyKY39xj.1) 
 
 ## Upcoming scheduled talks
 TBA
