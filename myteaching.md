@@ -4,11 +4,8 @@ title: Teaching
 
 ### Optimal Transport 
 
-#### Lecture notes:
-- Lecture 1. The Monge problem
-
-#### Seminar sheets:
-- Seminar 1
+#### Lectures:
+- Lecture 1. The Monge problem. (January 21). 
 
 #### Main references for the course:
 - [Lectures on Optimal Transport](https://link.springer.com/book/10.1007/978-3-031-76834-7). Ambrosio L., Brué E. and Semola D.  
