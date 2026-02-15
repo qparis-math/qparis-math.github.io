@@ -6,7 +6,7 @@ title: Teaching
 This course is an introduction to the field of Optimal Transport. It aims at presenting central results in the field along with a few selected topics. The course is offered as an elective course in several Master and PhD programs at HSE University in both the Computer Science and Mathematics Faculty. Prerequisites for the course include a basic knowledge of Differential Calculus, Convex analysis, Measure Theory and Topology.
 
 #### Lectures:
-- Lecture 1. The Monge problem. (January 21,28). [pdf](https://drive.google.com/file/d/1_vX64mqD3bREm8CBY-xE__aIVWcrGNiq/view?usp=sharing)
+- Lecture 1. The Monge problem. (January 21, 28). [pdf](https://drive.google.com/file/d/1_vX64mqD3bREm8CBY-xE__aIVWcrGNiq/view?usp=sharing)
 - Lecture 2. Existence of optimal transport plans (February 4) [pdf](https://drive.google.com/file/d/1fstGwEqVtQboRK8qAZEqW8sKX14Nrqy9/view?usp=sharing)
 - Lecture 3. Kantorovich-Wasserstein distances (February 11) [pdf](https://drive.google.com/file/d/1OhpIO4czZ_pcnRV7xo6nyVBXocvl2VKX/view?usp=sharing) 
 
