@@ -9,8 +9,10 @@ This course is an introduction to the field of Optimal Transport. It aims at pre
 - Lecture 1. The optimal transport problem (January 21, 28) [pdf](https://drive.google.com/file/d/1_vX64mqD3bREm8CBY-xE__aIVWcrGNiq/view?usp=sharing)
 - Lecture 2. Existence of optimal transport plans (February 4) [pdf](https://drive.google.com/file/d/1fstGwEqVtQboRK8qAZEqW8sKX14Nrqy9/view?usp=sharing)
 - Lecture 3. Kantorovich-Wasserstein distances (February 11) [pdf](https://drive.google.com/file/d/1OhpIO4czZ_pcnRV7xo6nyVBXocvl2VKX/view?usp=sharing)
-- Lecture 4. Necessary and sufficient optimality conditions (February 25) [pdf]()
-- Lecture 5. Duality and existence of optimal transport maps (March 4) [pdf]()
+- Lecture 4. Necessary and sufficient optimality conditions (February 25) [pdf](https://drive.google.com/file/d/1j73_Ks4jZZUr3qOOMCqv-ArhSiYBW872/view?usp=sharing)
+- Lecture 5. Duality and existence of optimal transport maps (March 4) [pdf](https://drive.google.com/file/d/1Zz9QRZC5RM9SVqIo8wldMjxGNQalos2R/view?usp=sharing)
+- Lecture 6. Continuity equation (March 11) [pdf]()
+- Lecture 7. The formal Riemannian structure of W_2 (March 18) [pdf]()
 
 #### References for the course:
 - [Lectures on Optimal Transport](https://link.springer.com/book/10.1007/978-3-031-76834-7). Ambrosio L., Brué E. and Semola D.  
