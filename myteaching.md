@@ -3,7 +3,7 @@ title: Teaching
 ---
 
 ### Optimal Transport 
-This course is an introduction to the field of Optimal Transport. It aims at presenting central results in the field along with a few selected topics. The course is offered as an elective course in several Master and PhD programs at HSE University in both the Computer Science and Mathematics Faculty. Prerequisites for the course include a basic knowledge of Differential Calculus, Convex analysis, Measure Theory and Topology.
+This course is an introduction to the theory of Optimal Transport, aiming at presenting some of the basic results in the field. The course is offered as an elective course in several Master and PhD programs at HSE University. Prerequisites for the course include a basic knowledge of Differential Calculus, Convex analysis, Measure Theory and Topology.
 
 #### Lectures:
 - Lecture 1. The optimal transport problem (January 21, 28) [pdf](https://drive.google.com/file/d/1_vX64mqD3bREm8CBY-xE__aIVWcrGNiq/view?usp=sharing)
