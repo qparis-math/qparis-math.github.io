@@ -8,20 +8,21 @@ This monthly online seminar invites researchers working in Geometry or Mathemati
 The seminar is co-organised by  [Victor-Emmanuel Brunel](https://vebrunel.fr), [Austin Stomme](https://austinjstromme.github.io), [Alexey Kroshnin](https://www.hse.ru/en/org/persons/219293044) and [Quentin Paris](https://qparis-math.github.io).
 
 ## Next talk
->### March 27, 2026
->- **Speaker**: [Ya-Ping Hsieh](https://las.inf.ethz.ch/people/yaping-hsieh) (ETH Zurich)
->- **Title**: Geometry Before Density: Rate Separation and Fast Manifold Generalization in Diffusion Models
->- **Abstract**: Diffusion models often generate novel, high-quality samples even when the learned score is still coarse. This talk explains this phenomenon through a geometric perspective under the manifold hypothesis. I will present recent results showing a sharp separation in the small-noise regime: the score first learns the data manifold geometry, while the fine-scale data distribution only appears at lower order. Building on this, I will discuss finite-sample guarantees showing that diffusion models can achieve strong on-manifold coverage—and hence meaningful generalization—at rates faster than full distribution estimation. Together, these results suggest that diffusion models succeed not because they fully recover the data distribution early in training, but because geometry is learned before memorization.
+>### April 17, 2026
+>- **Speaker**: [Jean-François Jabir](https://www.hse.ru/en/org/persons/209311150/#sci)
+>- **Title**: 
+>- **Abstract**: 
 >- **Time**: 3pm (CET)
->- **Zoom**: [Link](https://zoom.us/j/98507271961?pwd=hpEAxgv0izSLfTUqxS0eqmYHNbYfU7.1) (Meeting ID: 985 0727 1961, Passcode: 655002)
+>- **Zoom**: 
  
-## Upcoming scheduled talks
-### April 17, 2026
-- **Speaker**: [Jean-François Jabir](https://www.hse.ru/en/org/persons/209311150/#sci)
-- **Title**: TBA
-- **Abstract**: TBA
-
 ## Past talks
+### March 27, 2026
+- **Speaker**: [Ya-Ping Hsieh](https://las.inf.ethz.ch/people/yaping-hsieh) (ETH Zurich)
+- **Title**: Geometry Before Density: Rate Separation and Fast Manifold Generalization in Diffusion Models
+- **Abstract**: Diffusion models often generate novel, high-quality samples even when the learned score is still coarse. This talk explains this phenomenon through a geometric perspective under the manifold hypothesis. I will present recent results showing a sharp separation in the small-noise regime: the score first learns the data manifold geometry, while the fine-scale data distribution only appears at lower order. Building on this, I will discuss finite-sample guarantees showing that diffusion models can achieve strong on-manifold coverage—and hence meaningful generalization—at rates faster than full distribution estimation. Together, these results suggest that diffusion models succeed not because they fully recover the data distribution early in training, but because geometry is learned before memorization.
+- **Recording**: [Link](https://zoom.us/rec/share/gwjEYAwU3averuRgWcz0S8YseR4Kh4ecy9TUH2BloaD4S4X4DYyhyLlqjKyXgu7-.fYGwDiGvieumx9pn) pw: y7q3gFG^
+
+
 ### January 16, 2026
 - **Speaker**: [Catherine Aaron](https://lmbp.uca.fr/~aaron/)
 - **Title**: Local Convex Hull for Support Estimation (and Beyond): Old, New, and Some Perspectives
