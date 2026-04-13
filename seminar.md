@@ -13,7 +13,7 @@ The seminar is co-organised by  [Victor-Emmanuel Brunel](https://vebrunel.fr), [
 >- **Title**: McKean-Vlasov Models: Foundations and Trends.
 >- **Abstract**: This talk aims to provide a broad (though selective) overview of fundamental aspects of McKean–Vlasov models and, more generally, measure-dependent SDEs. Particular emphasis will be put on the intrinsic connections between these models and nonlinear PDEs, stochastic particle systems with mean-field interaction, and stochastic control problems, as well as more recent connections with neural networks for deep learning. (The presentation is intended as a broad introduction to the topic and will primarily survey key results from the literature, rather than focus on the speaker’s own contributions.)
 >- **Time**: 3pm (CET)
->- **Zoom**: 
+>- **Zoom**: [Link](https://us06web.zoom.us/j/2789300692?pwd=ZVAzeXRIZUREcEdlYWVPR1F5ejZOQT09&omn=86009965713) passcode: come_in
  
 ## Past talks
 ### March 27, 2026
