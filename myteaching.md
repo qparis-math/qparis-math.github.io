@@ -6,6 +6,7 @@ The course presents an introduction to modern statistical and probabilistic meth
 
 #### Lectures:
 - Lecture 1. Preliminaries on concentration and suprema of random variables [pdf](https://drive.google.com/file/d/1bnUXZkGb5epABJI6qkO2120rDFH1FXiD/view?usp=share_link)
+- Lecture 2. The LASSO for high-dimensional linear regression [pdf](https://drive.google.com/file/d/13LkW0i-q0xn3WUBAfn799C1mSddV-tMv/view?usp=sharing)
 
 #### References for the course:
 - [High-Dimensional Statistics. Lecture Notes](https://arxiv.org/pdf/2310.19244). Rigollet P. and Hütter J-C.
