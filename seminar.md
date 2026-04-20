@@ -8,20 +8,20 @@ This monthly online seminar invites researchers working in Geometry or Mathemati
 The seminar is co-organised by  [Victor-Emmanuel Brunel](https://vebrunel.fr), [Austin Stomme](https://austinjstromme.github.io), [Alexey Kroshnin](https://www.hse.ru/en/org/persons/219293044) and [Quentin Paris](https://qparis-math.github.io).
 
 ## Next talk
->### April 17, 2026
->- **Speaker**: [Jean-François Jabir](https://www.hse.ru/en/org/persons/209311150/#sci)
->- **Title**: McKean-Vlasov Models: Foundations and Trends.
->- **Abstract**: This talk aims to provide a broad (though selective) overview of fundamental aspects of McKean–Vlasov models and, more generally, measure-dependent SDEs. Particular emphasis will be put on the intrinsic connections between these models and nonlinear PDEs, stochastic particle systems with mean-field interaction, and stochastic control problems, as well as more recent connections with neural networks for deep learning. (The presentation is intended as a broad introduction to the topic and will primarily survey key results from the literature, rather than focus on the speaker’s own contributions.)
->- **Time**: 3pm (CET)
->- **Zoom**: [Link](https://us06web.zoom.us/j/2789300692?pwd=ZVAzeXRIZUREcEdlYWVPR1F5ejZOQT09&omn=86009965713) passcode: come_in
- 
+To be announced
+
 ## Past talks
+### April 17, 2026
+- **Speaker**: [Jean-François Jabir](https://www.hse.ru/en/org/persons/209311150/#sci)
+- **Title**: McKean-Vlasov Models: Foundations and Trends.
+- **Abstract**: This talk aims to provide a broad (though selective) overview of fundamental aspects of McKean–Vlasov models and, more generally, measure-dependent SDEs. Particular emphasis will be put on the intrinsic connections between these models and nonlinear PDEs, stochastic particle systems with mean-field interaction, and stochastic control problems, as well as more recent connections with neural networks for deep learning. (The presentation is intended as a broad introduction to the topic and will primarily survey key results from the literature, rather than focus on the speaker’s own contributions.)
+- **Recording**: ([Part 1](https://drive.google.com/file/d/1ddQGDCjGIts1Z4bctVKTlEEGWswPcZ5u/view?usp=sharing), [Part 2](https://drive.google.com/file/d/17R9f2dwzNuT95yeSIPhO8Po7Czmsvhuh/view?usp=sharing), [Part3](https://drive.google.com/file/d/17R9f2dwzNuT95yeSIPhO8Po7Czmsvhuh/view?usp=sharing))
+  
 ### March 27, 2026
 - **Speaker**: [Ya-Ping Hsieh](https://las.inf.ethz.ch/people/yaping-hsieh) (ETH Zurich)
 - **Title**: Geometry Before Density: Rate Separation and Fast Manifold Generalization in Diffusion Models
 - **Abstract**: Diffusion models often generate novel, high-quality samples even when the learned score is still coarse. This talk explains this phenomenon through a geometric perspective under the manifold hypothesis. I will present recent results showing a sharp separation in the small-noise regime: the score first learns the data manifold geometry, while the fine-scale data distribution only appears at lower order. Building on this, I will discuss finite-sample guarantees showing that diffusion models can achieve strong on-manifold coverage—and hence meaningful generalization—at rates faster than full distribution estimation. Together, these results suggest that diffusion models succeed not because they fully recover the data distribution early in training, but because geometry is learned before memorization.
 - **Recording**: [Link](https://zoom.us/rec/share/gwjEYAwU3averuRgWcz0S8YseR4Kh4ecy9TUH2BloaD4S4X4DYyhyLlqjKyXgu7-.fYGwDiGvieumx9pn) pw: y7q3gFG^
-
 
 ### January 16, 2026
 - **Speaker**: [Catherine Aaron](https://lmbp.uca.fr/~aaron/)
@@ -45,7 +45,6 @@ The seminar is co-organised by  [Victor-Emmanuel Brunel](https://vebrunel.fr), [
 - **Title**: Quantitative stability of optimal transport maps
 - **Abstract**: Optimal transport consists in sending a given source probability measure to a given target probability measure, in a way which is optimal with respect to some cost. On bounded subsets of R^d, if the cost is given by the squared Euclidean distance and the source measure is absolutely continuous, a unique optimal transport map exists. The question we will discuss is the following: how does this optimal transport map change if we perturb the target measure? For instance, if instead of the target measure we only have access to samples of it, how much does the optimal transport map change? This question, motivated by numerical and statistical aspects of optimal transport, has started to receive partial answers only recently, under quite restrictive assumptions on the source measure. We will review these answers and show how to handle much more general cases. This is a joint work with Quentin Mérigot.
 - **Recording**: [Link](https://drive.google.com/file/d/10R8zCZaqubP2RrT3V_1wm0pwOmawnbvJ/view?usp=sharing)
-
 
 ### December 13, 2024
 - **Speaker**: [Flavien Léger](https://flavienleger.github.io/) (INRIA, Université Paris Dauphine)
