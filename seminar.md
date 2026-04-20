@@ -12,7 +12,7 @@ To be announced
 
 ## Past talks
 ### April 17, 2026
-- **Speaker**: [Jean-François Jabir](https://www.hse.ru/en/org/persons/209311150/#sci)
+- **Speaker**: [Jean-François Jabir](https://www.hse.ru/en/org/persons/209311150/#sci) (HSE University)
 - **Title**: McKean-Vlasov Models: Foundations and Trends.
 - **Abstract**: This talk aims to provide a broad (though selective) overview of fundamental aspects of McKean–Vlasov models and, more generally, measure-dependent SDEs. Particular emphasis will be put on the intrinsic connections between these models and nonlinear PDEs, stochastic particle systems with mean-field interaction, and stochastic control problems, as well as more recent connections with neural networks for deep learning. (The presentation is intended as a broad introduction to the topic and will primarily survey key results from the literature, rather than focus on the speaker’s own contributions.)
 - **Recording**: ([Part 1](https://drive.google.com/file/d/1ddQGDCjGIts1Z4bctVKTlEEGWswPcZ5u/view?usp=sharing), [Part 2](https://drive.google.com/file/d/17R9f2dwzNuT95yeSIPhO8Po7Czmsvhuh/view?usp=sharing), [Part3](https://drive.google.com/file/d/17R9f2dwzNuT95yeSIPhO8Po7Czmsvhuh/view?usp=sharing))
